@@ -7,4 +7,4 @@ Compnentes:
  * Arduino nano
  * LCD 20x4
  * Teclado matricial 4x3
- * Relè de estado solido
+ * Relè de estado solido FOTEK SSR 25 DA
